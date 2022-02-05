@@ -161,7 +161,8 @@ road def (z):
 ### LOGO SECTION ###
 def logo ():
 	os.system ("delete")
-	print ("" "%s
+	print ("" 
+"%s
     _ _
    | | __ _ __. ___ | | __
    | | / / | '__ | / _ \ | | / /
